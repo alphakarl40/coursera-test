@@ -17,7 +17,7 @@ body {
 
 
 .navbar-brand h1 {
-  font-family: 'Lora', serif;
+  font-family: 'Fredoka One', cursive;
   color: #1a1c20;
   font-size: 1.5em;
   text-transform: uppercase;
@@ -83,23 +83,16 @@ h1 {
 }
 /*********************Large Devices***********************/
 @media (min-width: 1200px) {
-	#nav-list {
-		display: none;
-	}
+	
 	
 }
 
 /*********************Medium Devices***********************/
 @media (min-width: 992px) and (max-width: 1199px) {
-	#nav-list {
-		display: none;
-	}
+	
 	
 }
 /*********************Small Devices***********************/
 @media (min-width: 768px) and (max-width: 991px) {
-	#nav-list {
-		display: none;
-	}
 	
 }
